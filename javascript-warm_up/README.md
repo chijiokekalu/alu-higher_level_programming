@@ -1,1 +1,2 @@
-javascript basics
+# Welcome to JavaScript.
+# Author: Joshua Alana.
